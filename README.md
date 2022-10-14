@@ -8,6 +8,7 @@ IEEEXtreme is a global challenge in which teams of IEEE Student members – advi
 
 - each folder is named IEEEXtreme `N`
 - inside each folder you will find solutions for problems of that year's competition
+- file name structure `IX_<N>_<problem_name>.<ext>`
 
 ## Contributions
 
