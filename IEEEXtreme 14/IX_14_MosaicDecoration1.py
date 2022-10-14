@@ -1,5 +1,3 @@
-##################### SUCCESS #####################
-
 n,cb,cp = map(int,input().split())
 
 nBlack = 0

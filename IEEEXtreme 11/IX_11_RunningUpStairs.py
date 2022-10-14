@@ -1,5 +1,3 @@
-###################### SUCCESS ######################
-
 ## basically the same as the fibonacci sequence, but with a different formula
 
 ways = [0 for i in range(22001)]

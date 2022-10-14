@@ -1,5 +1,3 @@
-##################### SUCCESS #####################
-
 from operator import itemgetter
 
 

@@ -1,5 +1,3 @@
-///////////////////////////// SUCCESS ///////////////////////////
-
 import java.util.*;
 
 public class IX_11_Fibonacci {

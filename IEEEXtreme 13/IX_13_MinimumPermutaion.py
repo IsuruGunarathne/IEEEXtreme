@@ -1,5 +1,3 @@
-########################### SUCCESS ###############################
-
 from heapq import heapify, heappush, heappop
 
 n,m = map(int,input().split())

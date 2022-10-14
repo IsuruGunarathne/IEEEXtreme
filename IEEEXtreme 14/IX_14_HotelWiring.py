@@ -1,5 +1,3 @@
-############################## SUCCESS ##############################
-
 from heapq import heapify, heappush, heappop
 
 tests = int(input())
